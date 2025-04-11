@@ -16,10 +16,10 @@ It takes a 12V DC input and steps it down to a ~5V DC output using a PWM-control
 
 ## 🖥️ Schematic & Simulation
 ### Schematic
-[Buck Converter Schematic](Screenshot 2025-04-11 013306.png)
+![Buck Converter Schematic](Screenshot%202025-04-11%20013306.png)
 
 ### Output Voltage Waveform
-[Output Voltage Waveform](Screenshot 2025-04-11 013340.png)
+![Output Voltage Waveform](Screenshot%202025-04-11%20013340.png)
 
 ## 🔧 Applications
 This setup models a simplified power converter for systems like EV subsystems, microcontrollers, or battery-powered IoT devices where efficiency and voltage regulation matter.
